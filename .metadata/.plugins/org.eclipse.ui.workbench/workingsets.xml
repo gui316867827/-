@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1512535846429_1" label="jt-manage" name="jt-manage">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jt-manage-mapper" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jt-manage-pojo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jt-manage-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jt-manage-controller" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jt-manage" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1512535322958_0" label="Window Working Set" name="Aggregate for window 1512535322957"/>
+</workingSetManager>

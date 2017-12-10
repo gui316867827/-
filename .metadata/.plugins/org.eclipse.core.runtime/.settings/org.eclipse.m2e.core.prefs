@@ -1,0 +1,8 @@
+eclipse.m2.defaultRuntime=apache-maven-3.5.0
+eclipse.m2.globalSettingsFile=D\:\\Program Files\\apache-maven-3.5.0\\conf\\settings.xml
+eclipse.m2.problem.notCoveredMojoExecution=warning
+eclipse.m2.problem.outofdateProjectConfig=warning
+eclipse.m2.runtimes=apache-maven-3.5.0
+eclipse.m2.runtimesNodes/apache-maven-3.5.0/location=D\:\\Program Files\\apache-maven-3.5.0
+eclipse.m2.runtimesNodes/apache-maven-3.5.0/type=EXTERNAL
+eclipse.preferences.version=1
